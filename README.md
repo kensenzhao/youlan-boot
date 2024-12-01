@@ -1,15 +1,15 @@
-<img src="https://dgxdks.gitee.io/youlan-boot-doc/assets/img/banner.jpg" height="200px" width="100%" alt="">
+<img src="https://youlan-boot-doc.kensenzhao.com/assets/img/banner.jpg" height="200px" width="100%" alt="">
 
 <h2 align="center" style="font-weight: bold;">
 基于SpringBoot的轻量级业务开发框架
 </h2>
 
 <p align="center">
-    <a href="https://github.com/dgxdks/youlan-boot">
+    <a href="https://github.com/kensenzhao/youlan-boot">
       <img src="https://img.shields.io/github/stars/dgxdks/youlan-boot.svg?style=social&label=Stars" alt="">
     </a>    
-    <a href="https://gitee.com/dgxdks/youlan-boot">
-      <img src="https://gitee.com/dgxdks/youlan-boot/badge/star.svg?theme=blue" alt="">
+    <a href="https://gitee.com/kensenzhao/youlan-boot">
+      <img src="https://gitee.com/kensenzhao/youlan-boot/badge/star.svg?theme=blue" alt="">
     </a>
     <a>
         <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="">
@@ -29,9 +29,9 @@
 </p>
 
 <p align="center">
-    <a href="https://dgxdks.gitee.io/youlan-boot-doc">项目文档 | </a>
-    <a href="https://gitee.com/dgxdks/youlan-boot">Gitee地址 | </a>
-    <a href="https://github.com/dgxdks/youlan-boot">GitHub地址</a>
+    <a href="https://kensenzhao.gitee.io/youlan-boot-doc">项目文档 | </a>
+    <a href="https://gitee.com/kensenzhao/youlan-boot">Gitee地址 | </a>
+    <a href="https://github.com/kensenzhao/youlan-boot">GitHub地址</a>
 </p>
 
 
@@ -135,38 +135,38 @@ youlan-boot
 
 | 图例                                                                                           | 图例                                                                                                  |
 |----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/index.png)          | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/user.png)                  |
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/user-edit.png)      | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/role.png)                  |
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/role-edit.png)      | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/menu.png)                  |
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/menu-edit.png)      | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/dept.png)                  |
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/dept-edit.png)      | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/dict.png)                  |
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/dict-edit.png)      | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/dict-data.png)             |
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/config.png)         | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/config-edit.png)           |
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/notice.png)         | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/notice-edit.png)           |
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/log-operation.png)  | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/log-login.png)             |
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/storage-config.png) | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/storage-config-edit.png)   |
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/storage-record.png) | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/storage-record-upload.png) |
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/sms.png)            | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/sms-edit.png)              |
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/system/sms-record.png)     |                                                                                                     |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/index.png)          | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/user.png)                  |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/user-edit.png)      | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/role.png)                  |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/role-edit.png)      | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/menu.png)                  |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/menu-edit.png)      | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/dept.png)                  |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/dept-edit.png)      | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/dict.png)                  |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/dict-edit.png)      | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/dict-data.png)             |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/config.png)         | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/config-edit.png)           |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/notice.png)         | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/notice-edit.png)           |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/log-operation.png)  | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/log-login.png)             |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/storage-config.png) | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/storage-config-edit.png)   |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/storage-record.png) | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/storage-record-upload.png) |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/sms.png)            | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/sms-edit.png)              |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/system/sms-record.png)     |                                                                                                     |
 
 ### 支付管理
 
 | 图例                                                                                            | 图例                                                                                             |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/pay/pay-config.png)         | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/pay/pay-config-edit.png)     |
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/pay/pay-channel.png)        | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/pay/pay-channel-edit-1.png)  |
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/pay/pay-channel-edit-2.png) | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/pay/pay-order.png)           |
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/pay/pay-order-detail.png)   | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/pay/pay-record.png)          |
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/pay/refund-order.png)       | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/pay/refund-order-detail.png) |
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/pay/pay-notify.png)         | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/pay/pay-notify-record.png)   |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/pay/pay-config.png)         | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/pay/pay-config-edit.png)     |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/pay/pay-channel.png)        | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/pay/pay-channel-edit-1.png)  |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/pay/pay-channel-edit-2.png) | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/pay/pay-order.png)           |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/pay/pay-order-detail.png)   | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/pay/pay-record.png)          |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/pay/refund-order.png)       | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/pay/refund-order-detail.png) |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/pay/pay-notify.png)         | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/pay/pay-notify-record.png)   |
 
 ### 基础功能
 
 | 图例                                                                                      | 图例                                                                                           |
 |-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/base/generator.png)   | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/base/generator-import.png) |
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/base/online-user.png) | ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/base/redis-monitor.png)    |
-| ![](https://dgxdks.gitee.io/youlan-boot-doc/assets/img/demo-image/base/swagger.png)     |                                                                                              |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/base/generator.png)   | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/base/generator-import.png) |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/base/online-user.png) | ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/base/redis-monitor.png)    |
+| ![](https://youlan-boot-doc.kensenzhao.com/assets/img/demo-image/base/swagger.png)     |                                                                                              |
 
 ## 特别鸣谢
 
