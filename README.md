@@ -20,7 +20,7 @@
     <a>
         <img src="https://img.shields.io/badge/youlan--boot-1.1.0-success.svg" alt="">
     </a>
-    <a href="https://gitee.com/dgxdks/youlan-boot">
+    <a href="https://gitee.com/kensenzhao/youlan-boot">
         <img src="https://img.shields.io/badge/JDK-8-green.svg" alt="">
     </a>
     <a>
@@ -29,7 +29,8 @@
 </p>
 
 <p align="center">
-    <a href="https://kensenzhao.gitee.io/youlan-boot-doc">项目文档 | </a>
+    <a href="https://youlan-boot-doc.kensenzhao.com">项目文档 | </a>
+    <a href="https://youlan-boot-doc.kensenzhao.com">系统演示 | </a>
     <a href="https://gitee.com/kensenzhao/youlan-boot">Gitee地址 | </a>
     <a href="https://github.com/kensenzhao/youlan-boot">GitHub地址</a>
 </p>
@@ -39,10 +40,6 @@
 
 - 使用和学习优先拉取主线分支master，代码保持GitHub和Gitee同步，**日常使用优先访问Gitee**
 - 感兴趣的小伙伴点个⭐️Star⭐️鼓励一下吧！
-
-## 项目介绍
-
-> 项目除了包含基础的后台权限管理功能，还会在后续的迭代中不断加入常见业务模块，不定期更新项目技术栈。因为自己之前最常用的就是RuoYi系开源框架，所以此项目在最初搭建时使用了[RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)作为模版并对其进行了大量重构，待项目初始版本完成时已形成了自己的框架体系。
 
 ## 功能简介
 
@@ -113,7 +110,7 @@ youlan-boot
 
 | 名称                                                                          | 组件                                                                   | 描述                                                                                                                   |
 |-----------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| [后台前端项目(Vue2)](https://gitee.com/dgxdks/youlan-boot/tree/master/youlan-web) | Vue2、ElementUI、JavaScript                                            | 基于[ruoyi-ui](https://gitee.com/y_project/RuoYi-Vue/tree/master/ruoyi-ui)重写Vue2版本的后台管理前端项目                            |
+| [后台前端项目(Vue2)](https://gitee.com/kensenzhao/youlan-boot/tree/master/youlan-web) | Vue2、ElementUI、JavaScript                                            | 基于[ruoyi-ui](https://gitee.com/y_project/RuoYi-Vue/tree/master/ruoyi-ui)重写Vue2版本的后台管理前端项目                            |
 | 权限框架                                                                        | [sa-token](https://gitee.com/dromara/sa-token)                       | 使用SaToken替代配置相对反锁的SpringSecurity，足够满足大部分场景。[官方文档](https://sa-token.cc/)                                              |
 | ORM框架                                                                       | [mybatis-plus](https://github.com/baomidou/mybatis-plus)             | 简单查询基本不用写SQL，内置各种拦截器插件，数据库操作更省心。[官方文档](https://baomidou.com/)                                                        |
 | 多数据源                                                                        | [dynamic-datasource](https://github.com/baomidou/dynamic-datasource) | 结合mybatis-plus可应对大部分多数据源场景，功能丰富使用灵活。[官方文档](https://www.kancloud.cn/tracy5546/dynamic-datasource/2264611)             |
