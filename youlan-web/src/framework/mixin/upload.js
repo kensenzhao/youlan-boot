@@ -89,6 +89,7 @@ export default {
   methods: {
     mergeUrls(urls) {
       if (this.$str.isBlank(urls)) {
+        this.fileList = []
         return
       }
       this.fileList = urls.split(',').map(url => {
